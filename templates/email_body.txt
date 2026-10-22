@@ -1,0 +1,25 @@
+{{greeting}}
+
+Wishing you and the team at {{company_name}} a very happy festive season!
+
+Are you planning Diwali gifts for your employees or clients this year? I'm Shikha Shah from Gifting by Wear Your Style, Ahmedabad, and I'd love to be considered.
+
+Why teams choose us:
+
+- Personalised and handcrafted: thoughtful gifts that feel special, not like the usual corporate hampers.
+- Customised for you: your logo or a personal message, with quantities from 20 to 200+ gifts and options starting at ₹500 per gift.
+- Easy and reliable: one point of contact from design to delivery.
+
+You can see our work and what past clients have said here:
+{{catalog_url}}
+
+Not sure yet? I'm happy to share a sample or a mockup. We can also have a quick 10-minute call, whichever is easier for you.
+
+If these emails aren't relevant to you, reply with "unsubscribe" and I'll remove your address from future outreach.
+
+Warm regards,
+Shikha Shah
+Gifting by Wear Your Style
+7359359920
+Instagram: @giftingbywearyourstyle
+https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=yxco0lk

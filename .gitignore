@@ -1,0 +1,35 @@
+
+# Python virtual environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and OAuth credentials
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+client_secret*.json
+*oauth*credentials*.json
+
+# Local lead data and campaign history
+data/raw/*.csv
+data/processed/
+data/exports/
+*send_history*
+*send-history*
+*.sqlite3
+*.db
+
+# Logs and local output
+*.log
+logs/
+output/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
